@@ -1,0 +1,60 @@
+#home{
+    background: linear-gradient(100deg,rgb(129, 0, 129), purple);
+    color: white;
+}
+
+nav{
+    background: linear-gradient(100deg,rgb(41, 0, 41), purple);
+    border-bottom: 1px solid white;
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#promocao{
+    background: linear-gradient(100deg,rgb(218, 255, 214), rgb(238, 255, 231));
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+}
+
+#promocao2{
+    background: linear-gradient(100deg,rgb(235, 255, 233), rgb(250, 255, 247));
+    border-bottom: 2px solid white;
+}
+
+#relampago{
+    background: linear-gradient(100deg, rgb(149, 92, 255), rgb(213, 141, 255));
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+h3{
+    text-transform: uppercase;
+    color:#fff;
+    padding: 10px;
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer{
+    background: linear-gradient(100deg,rgb(41, 0, 41), purple);
+    padding:30px;
+}
+
+footer p a{
+    color: rgb(255, 255, 255);
+    margin: 5px 15px;
+}
+
+footer p a:hover{
+    color: rgb(255, 255, 255);
+    margin: 5px 15px;
+}
+
+footer h4{
+    color: rgb(255, 255, 255);
+    padding: 5px;
+}
